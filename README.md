@@ -1,2 +1,2 @@
-# bundesamt_fuer_statistik
-Abzug der Daten des Bundesamt für Statistik mittels Genesis API
+# Datenabzug Bundesamt für Statistik
+Abzug der Daten des Bundesamt für Statistik mittels Genesis API. In GENESIS-Online, der Datenbank des Statistischen Bundesamtes, finden man eine Vielzahl von Tabellen, die nach Ihren jeweiligen Anforderungen konfiguriert werden können. Mehr Infos zur Schnittstelle findet man [hier](https://www.destatis.de/DE/Service/OpenData/genesis-api-webservice-oberflaeche.html). Dank geht raus an [wahlatlas](https://github.com/wahlatlas/api).
